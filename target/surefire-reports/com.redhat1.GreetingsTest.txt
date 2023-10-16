@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.redhat1.GreetingsTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 72.616 s - in com.redhat1.GreetingsTest
